@@ -1,0 +1,78 @@
+.App{
+    height: 100vh;
+    padding: 0px 10px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+}
+.books{
+    display: flex;
+    gap: 10px;
+}
+.book{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    background-color: aquamarine;
+}
+.delete{
+    border: none;
+    padding: 3px 6px;
+    background-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.update{
+    border: none;
+    padding: 3px 6px;
+    background-color: green;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+input{
+    width: 250px;
+    padding: 10px;
+    border: 1px solid green;
+}
+.fromButton{
+    border: none;
+    color: white;
+    padding: 10px;
+    background-color: rgb(160, 160, 241);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.Addbtn{
+    margin: 10px;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    
+  }
+  
+
+
+
+
+
+
