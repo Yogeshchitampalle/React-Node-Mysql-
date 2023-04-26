@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App using Node +Mysql for DB 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Capture](https://user-images.githubusercontent.com/86973304/234546986-4f811f99-c108-4239-84a3-b411aaf3bc55.PNG)
 
 ## Available Scripts
 
